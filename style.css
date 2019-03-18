@@ -1,0 +1,10 @@
+
+.projects td
+{
+    padding:0 10px 5px 10px; 
+}
+
+.projects td:first-child {
+    text-align: right;
+}​
+
